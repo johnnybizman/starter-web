@@ -16,5 +16,7 @@ This is a simple wed project, deployment can be on any wdeb serverv or even loca
 
 ## How to Contribute
 
+Please fork this repo and then issue pull requests for review.
+
 ### Copyright
 2014 Git.training.
